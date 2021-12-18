@@ -1,4 +1,13 @@
-### Hi there 👋
+I like to write code. I write code to learn, and to make things that are useful to me, and maybe you.
+
+🎥 [twitch.tv/darthminos](https://twitch.tv/darthminos)  
+⏯️ [youtube.com/darthminos](https://youtube.com/darthminos)  
+📸 [instagram.com/darthminos](https://instagram.com/darthminos)  
+🐦 [twitter.com/@darthminos](https://twitter.com/@darthminos)  
+⏲️ [tiktok.com/@darthminos](https://tiktok.com/@darthminos)  
+🕸️ [darthminos.tv](https://perks.darthminos.tv)  
+♾️ [medal.tv/darthminos](https://medal.tv/darthminos)  
+😆 [dixper.gg/darthminos](https://dixper.gg/darthminos)  
 
 <!--
 **camalot/camalot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
