@@ -1,4 +1,6 @@
 ![Metrics](/github-metrics.svg)
+<!-- https://github.com/lowlighter/metrics/blob/master/.github/readme/partials/documentation/setup/action.md -->
+
 
 I like to write code. I write code to learn, and to make things that are useful to me, and maybe you.
 
@@ -12,6 +14,7 @@ I like to write code. I write code to learn, and to make things that are useful 
 😆 [dixper.gg/darthminos](https://dixper.gg/darthminos)  
 
 <!--
+
 **camalot/camalot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
