@@ -1,3 +1,5 @@
+![Metrics](/github-metrics.svg)
+
 I like to write code. I write code to learn, and to make things that are useful to me, and maybe you.
 
 🎥 [twitch.tv/darthminos](https://twitch.tv/darthminos)  
