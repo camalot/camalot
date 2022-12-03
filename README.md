@@ -8,7 +8,7 @@ I like to write code. I write code to learn, and to make things that are useful 
 ⏯️ [youtube.com/darthminos](https://youtube.com/darthminos)  
 📸 [instagram.com/darthminos](https://instagram.com/darthminos)  
 🐦 [twitter.com/@darthminos](https://twitter.com/@darthminos)  
-🐦 <a href="https://hachyderm.io/@darthminos" rel="me">https://hachyderm.io/@darthminos</a>  
+🐦 <a href="https://hachyderm.io/@darthminos" rel="me">hachyderm.io/@darthminos</a>  
 ⏲️ [tiktok.com/@darthminos](https://tiktok.com/@darthminos)  
 🕸️ [darthminos.tv](https://perks.darthminos.tv)  
 ♾️ [medal.tv/darthminos](https://medal.tv/darthminos)  
